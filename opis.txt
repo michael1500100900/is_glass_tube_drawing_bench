@@ -1,0 +1,11 @@
+Laboratorium identyfikacji systemów
+Opis danych, wiedza wstępna oraz warunki identyfikacji systemu
+
+Źródło danych: pojedyncza sekcja pomiarów automatycznego stołu do formowania szklanych rurek (ang. glass tube drawing bench).
+
+1. Cechy dynamiki systemu: liniowa dynamika procesu, proces o stałych parametrach.
+2. Dane zebrane z okresem próbkowania T_p=1s.
+3. Sygnał pobudzający u znany dokładnie (brak zakłóceń pomiarowych w u).
+4. Dane pomiarowe składają się z wejściowej prędkości tuby oraz z wyjściowej szerokości rurki.
+5. Model dynamiczny czasu dyskretnego (identyfikacja pośrednia systemu dynamicznego czasu ciągłego).
+6. Cel modelowania: Uzyskanie symulatora wyjaśniającego odpowiedź systemu na poziomie J_FIT>94%.
